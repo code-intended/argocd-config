@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Mahendra-js/argocd-config.git
+    repoURL: https://github.com/code-intended/argocd-config.git
     targetRevision: main
     path: nginx   # Path inside the repo containing Kubernetes manifests
 
