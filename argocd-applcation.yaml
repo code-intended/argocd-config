@@ -13,7 +13,7 @@ spec:
 
   destination:
     server: https://kubernetes.default.svc
-    namespace: guestbook   # Target namespace where app will be deployed
+    namespace: argocd   # Target namespace where app will be deployed
 
   syncPolicy:
     automated:
